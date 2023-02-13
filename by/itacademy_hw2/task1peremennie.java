@@ -1,6 +1,6 @@
-package task2;
+package by.itacademy_hw2;
 
-public class peremennie {
+public class task1peremennie {
     public static void main(String[] args) {
         byte b = 0x55;
         short s = 0x55ff;
